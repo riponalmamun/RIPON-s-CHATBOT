@@ -94,6 +94,6 @@ This project is licensed under the MIT License.
 
 # ⚡ Built with ❤️ by Ripon Al Mamun : https://github.com/riponalmamun
 
-# Huggingface DEMO: 
+# Huggingface DEMO:  https://huggingface.co/spaces/Ripon2/Ripon-Chatbot
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2b713873-b4ee-48d8-9a6a-90d1ea4938b6" />
 
