@@ -93,3 +93,7 @@ Feel free to fork this repo, open issues, and submit pull requests to improve th
 This project is licensed under the MIT License.
 
 # ⚡ Built with ❤️ by Ripon Al Mamun : https://github.com/riponalmamun
+
+# Huggingface DEMO: 
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2b713873-b4ee-48d8-9a6a-90d1ea4938b6" />
+
